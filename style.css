@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #;
+	background: #a2000a;
 }
 
 #header
@@ -36,7 +36,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #a2000a;
+	color: #fff;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -69,7 +69,7 @@
 
 #news
 {	
-	float: left;
+	float: center;
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
